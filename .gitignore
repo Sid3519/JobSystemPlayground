@@ -1,0 +1,5 @@
+Engine/Code/Engine/x64
+Engine/Code/Engine/Debug
+*.vcxproj*
+Temporary
+.vs
